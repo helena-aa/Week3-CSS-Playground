@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Freeman&display=swap');
+
+body {
+    background-color: rgb(255, 246, 235);
+}
+
+.heading {
+    text-align: center;
+}
+
+.playground-heading {
+    color: deeppink;
+    font-family: "Freeman", sans-serif;
+    font-size: 5rem;
+}
+
+.main {
+    border: 3px solid gray;
+    width: 55%;
+    margin: 1rem auto;
+}
+
+.main div {
+height: 200px;
+width: 200px;
+border: 1px solid black;
+border-radius: 50%;
+margin: 0.2rem auto;
+}
+
+#pink {
+    border-color: deeppink;
+}
+
+#blue {
+    border-color:skyblue;
+}
+
+#green {
+    border-color: darkseagreen;
+}
+
+.footer {
+    color:cornflowerblue;
+    text-align: center;
+    font-family: "Dancing Script", cursive;
+    font-size: 2rem;
+}
